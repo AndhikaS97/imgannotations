@@ -6,7 +6,7 @@ The tools that are used to image annotations:<br>
 1. Labelimg<br>
 2. Labelme<br>
 3. Label Studio<br>
-
+4. VoTT (Visual Object Tagging Tool)
 
 
 
